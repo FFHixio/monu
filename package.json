@@ -32,7 +32,7 @@
     "electron-packager": "^4.0.0",
     "electron-prebuilt": "^0.36.4",
     "publish-release": "^1.0.1",
-    "standard": "^3.2.1"
+    "standard": "^6.0.0"
   },
   "standard": {
     "ignore": [
