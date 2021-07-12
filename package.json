@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "electron-packager": "^4.0.0",
-    "electron-prebuilt": "^0.36.4",
+    "electron-prebuilt": "^0.37.8",
     "publish-release": "^1.0.1",
     "standard": "^3.2.1"
   },
